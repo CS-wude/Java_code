@@ -18,7 +18,7 @@ public class DBManager {
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String URL = "jdbc:mysql://localhost:3306/goodsale_system";
     private static final String USRENAME = "root";
-    private static final String PASSWORD = "family";
+    private static final String PASSWORD = "xxx";
 
     static {
         try {
